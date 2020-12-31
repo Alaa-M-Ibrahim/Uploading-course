@@ -1,2 +1,2 @@
 # Uploading-course
-complet bar + button
+complete bar + button
