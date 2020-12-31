@@ -1,0 +1,21 @@
+{
+  "name": "13-upload-files",
+  "version": "1.0.0",
+  "description": "A tutorial on uploading files and monitoring progress",
+  "main": "13-upload-files.js",
+  "repository": "https://github.com/HassanAlgoz/files-api",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hassan Algoz",
+  "license": "ISC"
+}
